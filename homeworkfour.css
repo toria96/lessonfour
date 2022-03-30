@@ -1,24 +1,60 @@
 
 
+
+
+.fon {
+  width: 500px; 
+  height: 800px;
+  background-color:rgb(240, 238, 238);
+  border: 0px solid;
+  margin: 0 auto;
+  
+  
+  
+ }
+
+
+
+
+
+ 
+h1, h3,   .mail{
+
+ text-align: center;   
+ margin: 20px auto;
+ 
+}
+
+.tablefirst {
+  width: 500px;
+}
+.tabletwo {
+  width: 500px;
+}
+
+
 table {
   border: 1px solid black;
 border-collapse:collapse;
 }
 
 td,th {
-  border:1px solid black;
+  border:1px solid rgb(202, 199, 199);
 }
 .FIRSTTABLE {
   background-color: rgb(124, 121, 121);
 }
 .tabletwocolor {
-  background-color:brown
+  background-color:rgb(231, 227, 3)
 }
 
 .mail {
-  border:none
+  border:none;
+  width: 500px;
+  
 }
 .mail td, .mail th {
-  border: none
+  border: none;
+  width: 500px;
 
-}
+}  
