@@ -1,0 +1,24 @@
+
+
+table {
+  border: 1px solid black;
+border-collapse:collapse;
+}
+
+td,th {
+  border:1px solid black;
+}
+.FIRSTTABLE {
+  background-color: rgb(124, 121, 121);
+}
+.tabletwocolor {
+  background-color:brown
+}
+
+.mail {
+  border:none
+}
+.mail td, .mail th {
+  border: none
+
+}
